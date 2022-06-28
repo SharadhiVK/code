@@ -7,7 +7,7 @@ import java.io.*;
 import java.util.Scanner;
 
 // Main class
-public class GFG {
+public class code {
 
 	// Main driver method
 	public static void main(String a[])
